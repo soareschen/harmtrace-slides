@@ -1,0 +1,2 @@
+C:maj
+C:maj;1 F:maj;1 D:7;1 G:7;1 C:maj;1
